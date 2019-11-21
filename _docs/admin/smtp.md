@@ -9,5 +9,5 @@ order: 1
 Configure SMTP by following below steps:
 
 1. Visit SMTP Page
-    ![](/images/gokarma_smtp_config.png)
+    ![SMTP_Page](../../images/gokarma_smtp_config.png)
 2. 
