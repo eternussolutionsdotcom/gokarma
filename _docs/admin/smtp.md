@@ -1,6 +1,6 @@
 ---
-title: Admin
-category: Configure Email Server
+title: Configure Email Server
+category: Admin
 order: 1
 ---
 
