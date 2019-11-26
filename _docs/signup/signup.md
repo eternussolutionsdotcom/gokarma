@@ -12,4 +12,5 @@ To Signup:
 
 > Videos can use up a lot of bandwidth so be aware of your mobile data.
 
-![SMTP_Page](../../videos/signup.mkv)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/sVvMxYeA86w/0.jpg)](http://www.youtube.com/watch?v=sVvMxYeA86w)
+
