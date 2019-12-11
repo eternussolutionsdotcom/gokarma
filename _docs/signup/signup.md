@@ -1,14 +1,17 @@
 ---
 title: Signup
 category: Signup Process
-order: 2
+Order: 1
 ---
 
 To Signup:
 
-1. Open a message with someone
-2. Select the **Send Media** button
-3. Pick a video or paste a YouTube link
+1. Open a link
+2. Select the **Register** button
+3. Enter the details
+4. Select **Next** button
+5. Enter admin details
+6. Select **Submit** button.
 
 > Videos can use up a lot of bandwidth so be aware of your mobile data.
 
