@@ -1,5 +1,5 @@
 ---
-title: Email
+title: Email Configuration
 category: Settings
 order: 1
 ---
@@ -28,6 +28,4 @@ Here is the information you will need:
 
 5. Select Send button. 
 
-> Videos can use up a lot of bandwidth so be aware of your mobile data.
 
-![](//placehold.it/800x600)

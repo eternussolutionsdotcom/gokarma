@@ -1,16 +1,20 @@
 ---
-title: Documents
-category: Admin
-order: 1
+title: NGO Branding
+category: Settings
+order: 2
 ---
 
-Share documents with your friends! Send work or school projects from your computer or phone.
+NGO Branding lets you upload the brand of organization throughout the software. 
 
-To share a document:
-1. Open a message with someone
-2. Select the **Send Media** button
-3. Pick a document
+Select your organization name and tagline. 
 
+To add your brand: 
 
+1. Enter your organization name in portal title. 
 
-![](//placehold.it/800x600)
+2. Enter your tag line in sub portal. 
+
+3. Upload logo if you wish. 
+
+4. Select Update button. 
+

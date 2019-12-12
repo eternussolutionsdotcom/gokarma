@@ -1,29 +1,22 @@
 ---
-title: Images
-category: Media
-order: 1
+title: Template
+category: Settings
+order: 3
 ---
 
-Share images with your friends! Send photos and pictures from your computer, phone or camera.
+Template settings lets you set the content and presentation of emails/SMS.  
 
-> Images are stored until you choose to remove them.
+To customize template: 
 
-To share an image:
+1. Under “Settings”, select Template  
 
-1. Open a message with someone
-2. Select the **Send Media** button
-3. Pick an image
+2. Select desired template from select template. 
 
-![](//placehold.it/800x600)
+3. Enter the content you wish. 
 
-Supported types:
+4. Copy the dynamic fields from merge field by clicking on copy icon. 
 
-* JPEG
-* PNG
-* BMP
-* GIF
+5. Paste the copied field in the content. 
 
-Unsupported types:
+6. Select Update Template button. 
 
-* SVG
-* WEBP
