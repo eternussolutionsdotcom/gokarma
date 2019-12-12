@@ -30,4 +30,6 @@ To add a new user, you must be an administrator.
 2. Enter new password and confirm password. 
 3. Select Confirm password button. 
 
-  
+**To Request a license:** 
+
+1. Select Request license button. An email will be    sent to our team. 
