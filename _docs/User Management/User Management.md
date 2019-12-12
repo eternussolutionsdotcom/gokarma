@@ -13,16 +13,19 @@ To add a new user, you must be an administrator.
 * Change password
 
 **To add a new user**: 
+
 1. Select the Add User button. 
 2. Enter user information. 
 3. Select Add button. 
 
 **To update information**: 
+
 1. Select edit user icon in Action column. 
 2. Make desired changes. 
 3. Select update button. 
 
 **To change password**: 
+
 1. Select change password icon. 
 2. Enter new password and confirm password. 
 3. Select Confirm password button. 
