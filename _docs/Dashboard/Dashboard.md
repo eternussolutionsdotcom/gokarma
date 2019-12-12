@@ -22,7 +22,7 @@ See statistics and numbers around donors, donations, and more.
     
 1. **Visit Dashboard Page**:
 
-    ![SMTP_Page](../../images/gokarma_dashboard1.png)
+    ![SMTP_Page](..\..\images\dashboard1.png)
     
 
 
