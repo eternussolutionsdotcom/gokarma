@@ -1,16 +1,32 @@
 ---
-title: Video
-category: Media
-order: 2
+title: Email
+category: Settings
+order: 1
 ---
 
-Share video to your friends! Send videos from your computer, phone, camera or YouTube.
+Email server configuration is all about your outgoing mail server settings. It lets you set up your specific configuration. 
 
-To share a video:
+Here is the information you will need: 
 
-1. Open a message with someone
-2. Select the **Send Media** button
-3. Pick a video or paste a YouTube link
+**SMTP User** : Your account E.g.user@ymail.com 
+
+**SMTP Password** : Password for the email address 
+
+**SMTP Host** : Depending upon your service providers (e.g. Gmail, yahoo) you can set the SMTP host. E.g. Smtp.gmail.com for Gmail. 
+
+**SMTP Port** : Port for your SMTP server E.g. 587, 465 
+
+**Change Configurations :-**
+
+1. Under “Settings”, select Email 
+
+2. Enter configuration 
+
+3. Select Submit button 
+
+4. Enter email id in “send test mail to” to verify configuration. 
+
+5. Select Send button. 
 
 > Videos can use up a lot of bandwidth so be aware of your mobile data.
 
