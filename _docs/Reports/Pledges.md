@@ -1,6 +1,6 @@
 ---
 title: Pledges
-category: Admin and User
+category: Reports
 order: 2
 ---
  ## Provide information about all pledges in selected time duration.

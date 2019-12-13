@@ -1,6 +1,6 @@
 ---
 title: Donors
-category: Admin and User
+category: Reports
 order: 2
 ---
  ## Provides information about all the donors.
