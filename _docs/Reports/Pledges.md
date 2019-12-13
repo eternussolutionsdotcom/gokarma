@@ -1,5 +1,5 @@
 ---
-title: Reports
+title: Pledges
 category: Admin and User
 order: 2
 ---

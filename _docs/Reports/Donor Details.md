@@ -1,5 +1,5 @@
 ---
-title: Reports
+title: Donor Details
 category: Admin and User
 order: 2
 ---
