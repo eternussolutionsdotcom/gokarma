@@ -32,4 +32,4 @@ To add a new user, you must be an administrator.
 
 **To Request a license:** 
 
-1. Select Request license button. An email will be    sent to our team. 
+1. Select Request license button. An email will be sent to our team. 
