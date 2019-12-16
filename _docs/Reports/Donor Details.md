@@ -1,6 +1,6 @@
 ---
-title: Donor Details
-category: Reports
+title: Reports-- Donor Details
+category: Admin and User
 order: 2
 ---
  ## View and download the report. 
