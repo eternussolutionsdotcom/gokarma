@@ -1,7 +1,7 @@
 ---
-title: SMS Configuration
-category: Settings
-order: 5
+title: Settings-- SMS Configuration
+category: Admin
+order: 3
 ---
 
 

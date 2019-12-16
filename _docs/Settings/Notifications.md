@@ -1,7 +1,7 @@
 ---
-title: Notifications
-category: Settings
-order: 4
+title: Settings-- Notifications
+category: Admin
+order: 3
 ---
 
 Allow or block notifications for email/SMS for different options. 

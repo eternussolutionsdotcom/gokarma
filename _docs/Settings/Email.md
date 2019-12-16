@@ -1,7 +1,7 @@
 ---
-title: Email Configuration
-category: Settings
-order: 1
+title: Settings--Email Configuration
+category: Admin
+order: 3
 ---
 
 Email server configuration is all about your outgoing mail server settings. It lets you set up your specific configuration. 

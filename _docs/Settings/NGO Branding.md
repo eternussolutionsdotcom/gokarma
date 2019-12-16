@@ -1,7 +1,7 @@
 ---
 title: Settings-- NGO Branding
 category: Admin
-order: 2
+order: 3
 ---
 
 NGO Branding lets you upload the brand of organization throughout the software. 
