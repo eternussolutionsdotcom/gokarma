@@ -1,6 +1,6 @@
 ---
-title: NGO Branding
-category: Settings
+title: Settings-- NGO Branding
+category: Admin
 order: 2
 ---
 

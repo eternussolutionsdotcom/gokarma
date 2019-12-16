@@ -10,11 +10,11 @@ order: 2
  
  **Features**:
 
-    * See statistics and numbers around donations.
-    * See donations by Type of Donors.
-    * See Monthly Donations.
-    * See donation of Top 5 Donors.
-    * See the Donation by Type. 
+ *  See statistics and numbers around donations.
+ * See donations by Type of Donors.
+ * See Monthly Donations.
+ * See donation of Top 5 Donors.
+ * See the Donation by Type. 
 
  **Terms**:  
 

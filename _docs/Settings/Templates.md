@@ -1,6 +1,6 @@
 ---
-title: Template
-category: Settings
+title: Settings-- Template
+category: Admin
 order: 3
 ---
 
