@@ -3,12 +3,11 @@ title: Settings-- Template
 category: Admin
 order: 3
 ---
+### Template settings lets you set the content and presentation of emails/SMS.  
 
-Template settings lets you set the content and presentation of emails/SMS.  
+**To customize template**: 
 
-To customize template: 
-
-1. Under “Settings”, select Template  
+1. Under **Settings**, select **Template**  
 
 2. Select desired template from select template. 
 
@@ -18,5 +17,5 @@ To customize template:
 
 5. Paste the copied field in the content. 
 
-6. Select Update Template button. 
+6. Select **Update Template** button. 
 
