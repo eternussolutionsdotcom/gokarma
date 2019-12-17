@@ -6,7 +6,7 @@ order: 2
  Cultivate donor relationships by capturing detailed contact information and tracking all fundraising activities with unlimited history. 
  To deal with the donors you must be a user or an administrator.
  
- Features: 
+ **Features**: 
 
  * See the complete donor information. 
  * Sort the columns. 
@@ -38,11 +38,11 @@ order: 2
 
   **To Add new Donor**: 
 
- 1. Select “Add Donor” button. 
+ 1. Select **Add Donor** button. 
 
  2. Enter the required details. 
 
- 3. Select Add button. 
+ 3. Select **Add** button. 
 
  **To inactivate the donor**: 
 
@@ -78,6 +78,7 @@ order: 2
 
  **Filter the records by status and donor type**: 
    Records can be filtered by status like Active, Inactive and by donor type like Individual, Institutional and Corporate. 
+
   **To filter records**:
 
  1. Select the icon representing filter data. 
@@ -90,10 +91,16 @@ order: 2
 
  1. Open any record. 
 
- 2. Select the “Owner Name” field. 
+ 2. Select the **Owner Name** field. 
 
  3. Choose the desired user of the record. 
 
- 4. Select “Update” button. 
+ 4. Select **Update** button. 
 
  5. The record will be moved to respective user account so that the donor will be handled by selected user. 
+
+
+ **Visit Donor report Page**:
+
+ ![SMTP_Page](..\..\images\Donors.png)
+    
