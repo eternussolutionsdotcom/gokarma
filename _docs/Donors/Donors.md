@@ -100,7 +100,5 @@ order: 2
  5. The record will be moved to respective user account so that the donor will be handled by selected user. 
 
 
- **Visit Donor report Page**:
-
- ![SMTP_Page](..\..\images\Donors.png)
+ 
     
