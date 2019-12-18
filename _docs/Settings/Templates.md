@@ -21,5 +21,5 @@ order: 3
 
  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=BYUvuPAaD34)
 
- [Settings--Templates video link](https://www.youtube.com/watch?v=BYUvuPAaD34)
+ [Settings--Templates video](https://www.youtube.com/watch?v=BYUvuPAaD34)
  

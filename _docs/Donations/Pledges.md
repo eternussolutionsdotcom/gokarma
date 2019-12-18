@@ -37,5 +37,5 @@ order: 2
 
  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=Xt6mEySotvY)
 
- [Donation--Pledges video link](https://www.youtube.com/watch?v=Xt6mEySotvY)
+ [Donation--Pledges video](https://www.youtube.com/watch?v=Xt6mEySotvY)
  

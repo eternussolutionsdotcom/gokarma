@@ -36,5 +36,5 @@ order: 2
 
  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=_SOVbq6FUoU)
 
- [User Management video link](https://www.youtube.com/watch?v=_SOVbq6FUoU)
+ [User Management video](https://www.youtube.com/watch?v=_SOVbq6FUoU)
  

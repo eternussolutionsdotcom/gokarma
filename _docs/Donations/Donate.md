@@ -79,5 +79,5 @@
 
  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=yYESlhAldpg)
 
- [Donate Now video link](https://www.youtube.com/watch?v=yYESlhAldpg)
+ [Donate Now video](https://www.youtube.com/watch?v=yYESlhAldpg)
  
