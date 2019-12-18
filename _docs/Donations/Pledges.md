@@ -34,3 +34,8 @@ order: 2
  1. Double click on record or simply click on view icon. 
 
  2. All information regarding pledges like paid, planned, deferred and cancelled sub pledges will be listed. 
+
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=Xt6mEySotvY)
+
+ [Donation--Pledges video link](https://www.youtube.com/watch?v=Xt6mEySotvY)
+ 
