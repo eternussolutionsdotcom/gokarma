@@ -14,6 +14,6 @@ Order: 1
 
  <!---[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/sVvMxYeA86w/0.jpg)](http://www.youtube.com/watch?v=sVvMxYeA86w) --->
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/a4xNeHUQ9-M/0.jpg)](https://www.youtube.com/watch?v=a4xNeHUQ9-M)
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/a4xNeHUQ9-M/0.jpg)](https://www.youtube.com/watch?v=a4xNeHUQ9-M)
 
  [Sign up video link](https://www.youtube.com/watch?v=a4xNeHUQ9-M)
