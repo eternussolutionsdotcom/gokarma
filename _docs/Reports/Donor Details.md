@@ -18,3 +18,7 @@ order: 2
  2. Select **View Report** button. 
 
  3. Select **Download pdf** button. 
+
+ **Visit Reports--Donor detail Page**:
+
+ ![SMTP_Page](..\..\images\Reports_DonorDetails.png)

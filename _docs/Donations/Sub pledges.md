@@ -20,3 +20,8 @@ order: 2
  2. You will able to edit only status and payment type. 
 
  3. Select **Update** button. 
+
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=XyKBlMUMFS0)
+
+ [Donation--Sub Pledges video](https://www.youtube.com/watch?v=XyKBlMUMFS0)
+ 

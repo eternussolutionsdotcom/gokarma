@@ -40,3 +40,7 @@ order: 2
  4. Select **Export to csv** button. 
 
  5. Report will be exported in csv file.
+
+ **Visit Reports--Donation Transaction Page**:
+
+ ![SMTP_Page](..\..\images\Reports_DonationTransactions.png)

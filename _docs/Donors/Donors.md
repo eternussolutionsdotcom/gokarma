@@ -99,6 +99,9 @@ order: 2
 
  5. The record will be moved to respective user account so that the donor will be handled by selected user. 
 
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=HC26EaEbSQ0)
 
+ [Donor Video](https://www.youtube.com/watch?v=HC26EaEbSQ0)
+ 
  
     
