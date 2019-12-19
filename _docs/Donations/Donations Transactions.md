@@ -3,9 +3,7 @@ title: Donation-- Donation Transactions
 category: Admin and User
 order: 2
 ---
- **Donation Transactions** 
-
- A list of all donations along with the details.
+ ### A list of all donations along with the details.
 
  **Features**: 
  * See the list of all transactions.

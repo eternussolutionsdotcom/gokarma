@@ -4,6 +4,13 @@ category: Admin
 order: 3
 ---
  ### Template settings lets you set the content and presentation of emails/SMS.  
+ 
+ **Features**:
+
+ * Welcome template of email and SMS.
+ * Gratitude template of email and SMS.
+ * Pledge template of email and SMS.
+ * 80 G receipt template. 
 
  **To customize template**: 
 

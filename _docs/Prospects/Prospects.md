@@ -3,9 +3,10 @@ title: Prospects
 category: Admin and User
 order: 2
 ---
- To deal with the prospect you must be a user or an administrator. 
- Build a prospect list of the right people who can provide the necessary level of funding for your work.  
+ ### Build a prospect list of the right people who can provide the necessary level of funding for your work. 
 
+ **To deal with the prospect you must be a user or an administrator. **
+  
  **Terms in Prospect**: 
 
  **In-Process**: In communication and can be converted to any stage either lost, deferred or won. 
