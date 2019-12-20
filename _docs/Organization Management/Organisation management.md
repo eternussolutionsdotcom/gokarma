@@ -3,7 +3,7 @@ title: Organization Management
 category: Admin
 order: 2
 ---
- ### Manage all regarding your organization.
+ ## Manage all regarding your organization.
 
  **To deal with organization management you must be an administrator.** 
 

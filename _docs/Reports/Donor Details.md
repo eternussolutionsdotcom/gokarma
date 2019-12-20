@@ -3,7 +3,7 @@ title: Reports-- Donor Details
 category: Admin and User
 order: 2
 ---
- ## View and download the report. 
+ ## View and download the detailed report of donor . 
 
  **To view the donor detail**: 
 

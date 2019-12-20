@@ -3,7 +3,7 @@
  category: Admin and User
  order: 2
 ---
- ### Donate now lets you accept the donations. 
+ ## Donate now lets you accept the donations. 
 
  **Features**:
 

@@ -3,7 +3,7 @@ title: Settings-- Template
 category: Admin
 order: 3
 ---
- ### Template settings lets you set the content and presentation of emails/SMS.  
+ ## Template settings lets you set the content and presentation of emails/SMS.  
  
  **Features**:
 

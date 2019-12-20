@@ -3,7 +3,7 @@ title: Donors
 category: Admin and User
 order: 2
 ---
- ### Cultivate donor relationships by capturing detailed contact information and tracking all fundraising activities with unlimited history. 
+ ## Cultivate donor relationships by capturing detailed contact information and tracking all fundraising activities with unlimited history. 
  
  **To deal with the donors you must be a user or an administrator.**
  

@@ -4,7 +4,7 @@ category: Admin
 order: 3
 ---
 
- ### NGO Branding lets you upload the brand of organization throughout the software. 
+ ## NGO Branding lets you upload the brand of organization throughout the software. 
 
  **Features**:
  * Upload Portal title.

@@ -3,6 +3,8 @@ title: User Management
 category: Admin
 order: 2
 ---
+ ## User management lets you add and update user.
+ 
  To add a new user, you must be an administrator. 
 
  **Features**: 

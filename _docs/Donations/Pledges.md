@@ -3,7 +3,7 @@ title: Donation-- Pledges
 category: Admin and User
 order: 2
 ---
- ### Accept and track all pledges of donors.
+ ## Accept and track all pledges of donors.
  
  **Features**: 
 

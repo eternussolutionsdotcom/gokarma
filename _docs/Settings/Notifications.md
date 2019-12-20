@@ -4,7 +4,7 @@ category: Admin
 order: 3
 ---
 
- ### Allow or block notifications for email/SMS for different options. 
+ ## Allow or block notifications for email/SMS for different options. 
  
  Allow notifications by selecting the respective checkbox and block the notification by deselecting the checkbox.  
 

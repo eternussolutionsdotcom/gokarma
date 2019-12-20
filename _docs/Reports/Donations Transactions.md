@@ -3,7 +3,7 @@ title: Reports-- Donations Transactions
 category: Admin and User
 order: 2
 ---
- ### Create robust reports that track donations in the format that helps you most:  lists, reports, summaries, and more. 
+ ## Create robust reports that track donations in the format that helps you most:  lists, reports, summaries, and more. 
 
  **Features**: 
 
