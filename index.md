@@ -6,19 +6,23 @@ title: Welcome
 
 
  **Build and connect for Long-term Association**:
+ 
   Beliefs and Relationships concrete each one's existence, GoKarma provisions you attempt to help NGO's tap into their full potential to actualize your cause.
 
  **Volunteer Contribution and Engagement**:
+
   GoKarma helps you reach and on-board volunteers, in an easy and streamlined manner by replacing cumbersome paperbound process.
  
  **Reports, Analytics and Dashboards**:
+ 
   GoKarma offers a variety of interactive dashboards that enable NGOs to easily see, filter and manage data and dig in deeper to get the information they need.
  
  **Maximize and Manage Donations**:
+
   GoKarma simplifies grants/donations management lifecycle and transforms the way NGOs manage philanthropic giving from start to finish.
 
  **Advantages**
- * Increase and expand the reach to donors globaly
+ * Increase and expand the reach to donors globally
  * Mundane back office operations are executed efficiently with limited staff
  * Automated reminders enable adhering to statutory complainces
  * Track the allocations of donations and progress of beneficiaries
