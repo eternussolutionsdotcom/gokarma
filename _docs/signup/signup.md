@@ -12,8 +12,17 @@ Order: 1
  6. Select **Submit** button.
 
 
- <!---[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/sVvMxYeA86w/0.jpg)](http://www.youtube.com/watch?v=sVvMxYeA86w) --->
-
- [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/a4xNeHUQ9-M/0.jpg)](https://www.youtube.com/watch?v=a4xNeHUQ9-M)
-
- [Sign up video](https://www.youtube.com/watch?v=a4xNeHUQ9-M)
+ Prospect
+ Add prospect
+ edit--won
+ donor show record
+ filter, 
+ search
+ 
+ 
+  Players: 3
+ 1. Line up the 2 teams from the starting line, one next to other.
+ 2. Starting person have to pass a ball with the help of cardboard without touching the ball till the last player.
+ 3. This have to be done for 5 rounds with different ball every time.
+ 4. The winner will be the fastest team.
+ 
