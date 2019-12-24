@@ -10,19 +10,12 @@ Order: 1
  4. Select **Next** button
  5. Enter admin details
  6. Select **Submit** button.
+ 
+
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=a4xNeHUQ9-M)
+
+ [Organization Management video](https://www.youtube.com/watch?v=a4xNeHUQ9-M)
+  
 
 
- Prospect
- Add prospect
- edit--won
- donor show record
- filter, 
- search
- 
- 
-  Players: 3
- 1. Line up the 2 teams from the starting line, one next to other.
- 2. Starting person have to pass a ball with the help of cardboard without touching the ball till the last player.
- 3. This have to be done for 5 rounds with different ball every time.
- 4. The winner will be the fastest team.
  
