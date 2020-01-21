@@ -3,9 +3,10 @@ title: Prospects
 category: Admin and User
 order: 2
 ---
- To deal with the prospect you must be a user or an administrator. 
- Build a prospect list of the right people who can provide the necessary level of funding for your work.  
+ ## Build a prospect list of the right people who can provide the necessary level of funding for your work. 
 
+ **To deal with the prospect you must be a user or an administrator. **
+  
  **Terms in Prospect**: 
 
  **In-Process**: In communication and can be converted to any stage either lost, deferred or won. 
@@ -75,7 +76,7 @@ order: 2
 
  4. Your data will be imported and errors if any will be shown by line numbers in case of duplicate entries or     missing fields. 
 
- ** To export template**:
+ **To export template**:
 
  1. Select **Export to csv** button. 
 
@@ -85,7 +86,7 @@ order: 2
 
  Records can be filtered by lead status In-process, Won, Lost and Deferred. 
 
-**To filter records**: 
+ **To filter records**: 
 
  1. Select the icon representing filter data. 
 
@@ -126,3 +127,7 @@ order: 2
  4. Select **Update** button. 
 
  5. The record will be moved to respective user account so that the prospect will be handled by that user. 
+ 
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=XyKBlMUMFS0)
+
+ [Prospect video](https://www.youtube.com/watch?v=XyKBlMUMFS0)

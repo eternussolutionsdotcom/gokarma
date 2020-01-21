@@ -3,7 +3,7 @@ title: Forgot Password
 category: Admin and User
 order: 2
 ---
- Provide the email address that you used when you signed up for your account, password reset instructions will be send to the email.  
+ ## Provide the email address that you used when you signed up for your account, password reset instructions will be send to the email.  
 
  **To recover your password**: 
 

@@ -1,6 +1,6 @@
 ---
-title: Donations Transactions
-category: Reports
+title: Reports-- Donations Transactions
+category: Admin and User
 order: 2
 ---
  ## Create robust reports that track donations in the format that helps you most:  lists, reports, summaries, and more. 
@@ -40,3 +40,7 @@ order: 2
  4. Select **Export to csv** button. 
 
  5. Report will be exported in csv file.
+
+ **Visit Reports--Donation Transaction Page**:
+
+ ![SMTP_Page](..\..\images\Reports_DonationTransactions.png)

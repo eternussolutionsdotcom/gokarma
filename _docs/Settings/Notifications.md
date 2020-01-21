@@ -1,16 +1,21 @@
 ---
-title: Notifications
-category: Settings
-order: 4
+title: Settings-- Notifications
+category: Admin
+order: 3
 ---
 
-Allow or block notifications for email/SMS for different options. 
-Allow notifications by selecting the respective checkbox and block the notification by deselecting the checkbox.  
+ ## Allow or block notifications for email/SMS for different options. 
+ 
+ Allow notifications by selecting the respective checkbox and block the notification by deselecting the checkbox.  
 
-Features: 
+  **Features**: 
 
-1. Welcome email and SMS 
+ * Welcome email and SMS 
 
-2. Gratitude email and SMS 
+ * Gratitude email and SMS 
 
-3. Pledge reminder email and SMS 
+ * Pledge reminder email and SMS 
+
+ **Visit Notifications page**:
+
+ ![SMTP_Page](..\..\images\Settings_Notifications.png)

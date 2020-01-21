@@ -3,25 +3,30 @@ title: Organization Management
 category: Admin
 order: 2
 ---
-To deal with organization management you must be an administrator. 
+ ## Manage all regarding your organization.
 
-**Features**: 
+ **To deal with organization management you must be an administrator.** 
 
-* View organization details. 
-* Update organization information. 
-* View license details. 
-* Request a license.  
+ **Features**: 
 
-**To update organization details**: 
+ * View organization details. 
+ * Update organization information. 
+ * View license details. 
+ * Request a license.  
 
-1. Select **Edit** button. 
+ **To update organization details**: 
 
-2. Update desired information. 
+ 1. Select **Edit** button. 
 
-3. Select **Update** button. 
+ 2. Update desired information. 
 
-**To Request a license**: 
+ 3. Select **Update** button. 
 
-Select **Request license** button. An email will be sent to our team. 
+ **To Request a license**: 
 
+ Select **Request license** button. An email will be sent to our team. 
+
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=COkN_8-Y14o)
+
+ [Organization Management video](https://www.youtube.com/watch?v=COkN_8-Y14o)
   

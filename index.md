@@ -1,8 +1,30 @@
 ---
-title: Welcome
+title: Introduce GoKarma Lite
 ---
+ ## GoKarma provisions NGO's tap into their full potential to actualize your cause.
+ ## GoKarma helps establish a 360 degree view of constituents such as Prospects, Donors, and Donations.
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
+
+ **Build and connect for Long-term Association**:<br/>
+  Beliefs and Relationships concrete each one's existence, GoKarma provisions you attempt to help NGO's tap into their full potential to actualize your cause.
+
+ **Volunteer Contribution and Engagement**:<br/>
+   GoKarma helps you reach and on-board volunteers, in an easy and streamlined manner by replacing cumbersome paperbound process.
+ 
+ **Reports, Analytics and Dashboards**:<br/>
+   GoKarma offers a variety of interactive dashboards that enable NGOs to easily see, filter and manage data and dig in deeper to get the information they need.
+ 
+ **Maximize and Manage Donations**:<br/>
+   GoKarma simplifies grants/donations management lifecycle and transforms the way NGOs manage philanthropic giving from start to finish.
+
+ **Advantages**
+ * Increase and expand the reach to donors globally
+ * Mundane back office operations are executed efficiently with limited staff
+ * Automated reminders enable adhering to statutory complainces
+ * Track the allocations of donations and progress of beneficiaries
+ * User Friendly and Intutive User Interface
+
+<!--This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
 **Edition** is perfect for documenting your product, application or service.
 It's populated with example content to give you some ideas.
 
@@ -35,4 +57,4 @@ Sync your contact list with your phone and/or Facebook contacts. Never lose your
 
 #### Devices
 
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+ChatApp is available everywhere. Find out how to set it up on your all your devices.-->

@@ -1,16 +1,18 @@
 ---
-title: SMS Configuration
-category: Settings
-order: 5
+title: Settings-- SMS Configuration
+category: Admin
+order: 3
 ---
+ ## Define message property in SMS configuration.  
 
+ **To configure SMS settings**: 
 
-Define message property in SMS configuration.  
+ 1. Enter API Key of distributor. 
 
-To configure SMS settings: 
+ 2. Enter Header 
 
-1. Enter API Key of distributor. 
+ 3. Select Update button. 
 
-2. Enter Header 
+ **Visit SMS page**:
 
-3. Select Update button. 
+ ![SMTP_Page](..\..\images\Settings_SMS.png)
