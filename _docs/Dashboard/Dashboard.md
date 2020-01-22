@@ -4,7 +4,7 @@ category: Admin and User
 order: 2
 ---
 
-## View all KPIs relevant to donations
+ ## View all KPIs relevant to donations
 
  Dashboard lets you visualize the KPIs and other strategic data for your donation at glance. 
  See statistics and numbers around donors, donations, and more. 
