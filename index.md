@@ -1,5 +1,5 @@
 ---
-title: Introduce GoKarma Lite
+title: Introduction
 ---
  ## GoKarma provisions NGO's tap into their full potential to actualize your cause.
  ## GoKarma helps establish a 360 degree view of constituents such as Prospects, Donors, and Donations.
