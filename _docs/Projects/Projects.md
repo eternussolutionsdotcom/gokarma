@@ -1,6 +1,6 @@
 ---
 title: Projects
-category: Admin and User
+category: Projects
 order: 2
 ---
 

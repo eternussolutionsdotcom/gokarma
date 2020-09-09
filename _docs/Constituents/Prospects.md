@@ -1,6 +1,6 @@
 ---
-title: Constituents--     Prospects
-category: Admin and User
+title: Prospects
+category: Constituents
 order: 2
 ---
 

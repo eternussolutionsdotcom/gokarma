@@ -1,6 +1,6 @@
 ---
-title: Dashboards- Activities
-category: Admin and User
+title: Activities
+category: Dashboards
 order: 2
 ---
 

@@ -1,3 +1,9 @@
+---
+title: Beneficiary
+category: Constituents
+order: 2
+---
+
 # Beneficiary
 Beneficiaries are needed to be involved in planning, monitoring and reviewing an NGO's activity. This makes sure that the NGO is meeting their real needs. They can be affected directly or indirectly from the NGO projects.
 #### To deal with the beneficiary you need to be an administrator.

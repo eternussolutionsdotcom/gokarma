@@ -1,3 +1,8 @@
+---
+title: Campaign
+category: Campaigns & Events
+order: 2
+---
 # Campaign
 A campaign is a planned set of activities that NGO carries out over a period of time in order to achieve their milestones. 
 #### To deal with the beneficiary you need to be an administrator.

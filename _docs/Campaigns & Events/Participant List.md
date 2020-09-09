@@ -1,6 +1,6 @@
 ---
-title: Campaigns & Events--     Participant Lists 
-category: Admin and User
+title: Participant Lists 
+category: Campaigns & Events
 order: 2
 ---
 

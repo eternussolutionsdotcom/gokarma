@@ -1,6 +1,6 @@
 ---
-title: Projects-- Success-Stories
-category: Admin and User
+title: Success-Stories
+category: Projects
 order: 2
 ---
 

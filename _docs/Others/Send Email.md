@@ -1,6 +1,6 @@
 ---
-title: Others-- Send Email
-category: Admin
+title:Send Email
+category: Others
 order: 2
 ---
 

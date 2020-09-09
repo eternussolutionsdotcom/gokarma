@@ -1,6 +1,6 @@
 ---
-title: Projects---Thematic Areas
-category: Admin and User
+title: Thematic Areas
+category: Projects
 order: 2
 ---
 

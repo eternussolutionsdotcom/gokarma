@@ -1,6 +1,6 @@
 ---
-title: Constituents-- Donors
-category: Admin and User
+title: Donors
+category: Constituents
 order: 2
 ---
 

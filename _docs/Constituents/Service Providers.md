@@ -1,6 +1,6 @@
 ---
-title: Constituents-- Service Providers
-category: Admin and User
+title: Service Providers
+category: Constituents
 order: 2
 ---
 

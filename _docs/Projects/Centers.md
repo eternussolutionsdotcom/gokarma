@@ -1,6 +1,6 @@
 ---
-title: Projects---Centers
-category: Admin and User
+title: Centers
+category: Projects
 order: 2
 ---
 

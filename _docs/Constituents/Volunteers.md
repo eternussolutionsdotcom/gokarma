@@ -1,6 +1,6 @@
 ---
-title: Constituents-- Volunteers
-category: Admin and User
+title: Volunteers
+category: Constituents
 order: 2
 ---
 

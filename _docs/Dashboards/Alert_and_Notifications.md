@@ -1,6 +1,6 @@
 ---
-title: Dashboards--Alerts and Notifications
-category: Admin and User
+title: Alerts and Notifications
+category: Dashboards
 order: 2
 ---
 

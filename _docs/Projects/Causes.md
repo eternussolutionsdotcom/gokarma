@@ -1,10 +1,10 @@
 ---
-title: Projects---Causes
-category: Admin and User
+title: Causes
+category: Projects
 order: 2
 ---
 
-#Programs:
+#Causes:
 #####Causes are the motives behind which Donations are made, Projects, Events is Organized 
 
 

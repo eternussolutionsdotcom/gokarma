@@ -1,6 +1,6 @@
 ---
 title: Dashboards
-category: Admin and User
+category: Dashboards
 order: 2
 ---
 
