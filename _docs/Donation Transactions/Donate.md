@@ -1,7 +1,7 @@
 ---
- title: Donate Now
- category:Donation Transactions
- order: 2
+title: Donate Now
+category:Donation Transactions
+order: 2
 ---
  ## Donate now lets you accept the donations. 
 

@@ -1,7 +1,7 @@
 ---
- title: Donation Transactions
- category:Donation Transactions
- order: 2
+title: Donation Transactions
+category:Donation Transactions
+order: 2
 ---
  ## A list of all donations along with the details.
 
