@@ -1,6 +1,6 @@
 ---
 title:Send Email in Gokarma
-category: Others
+category: Constituents
 order: 2
 ---
 
