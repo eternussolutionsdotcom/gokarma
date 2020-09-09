@@ -1,3 +1,9 @@
+---
+title: Implementers
+category: Constituents
+order: 2
+---
+
 # Implementers
 NGOs act as implementers in that they mobilize resources in order to provide goods and services to people who are suffering due to any related cause. Implementers can be either Institutional, Corporate or at a Individual level.
 #### To deal with the implementers you need to be an administrator.

@@ -1,6 +1,6 @@
 ---
-title: Constituents--     Members 
-category: Admin and User
+title: Members 
+category: Constituents
 order: 2
 ---
 

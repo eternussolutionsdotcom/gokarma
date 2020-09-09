@@ -1,6 +1,6 @@
 ---
-title: Campaigns & Events-- 	Detection Camps
-category: Admin and User
+title: Detection Camps
+category: Campaigns & Events
 order: 2
 ---
 

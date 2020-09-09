@@ -1,6 +1,6 @@
 ---
- title: Donation-- Donate Now
- category: Admin and User
+ title: Donate Now
+ category:Donations
  order: 2
 ---
  ## Donate now lets you accept the donations. 

@@ -1,6 +1,6 @@
 ---
-title: Others-- Set Date Format in Excel
-category: Admin and User
+title: Set Date Format in Excel
+category: Others
 order: 2
 ---
 

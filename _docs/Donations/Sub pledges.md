@@ -1,7 +1,7 @@
 ---
-title: Donation-- Sub Pledges
-category: Admin and User
-order: 2
+ title: Sub-Pledges
+ category:Donation Transactions
+ order: 2
 ---
  ## The detailed information of sub pledges is maintained.
 
