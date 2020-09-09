@@ -1,10 +1,10 @@
 ---
-title: Set Date Format in Excel
+title: Set Date Format in Excel for Gokarma
 category: Others
 order: 2
 ---
 
-#Set Date Format:
+# Set Date Format:
 **Default format of Date field given in excel is mm/dd/yyyy.**
 To change it so that it can accept date in our given format i.e. dd/mm/yyyy, we have to make changes in format of Date field every time we open a new excel. 
 Refer the image below.
