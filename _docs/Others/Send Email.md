@@ -1,5 +1,5 @@
 ---
-title:Send Email in Gokarma
+title: Send Email
 category: Others
 order: 2
 ---
