@@ -1,10 +1,10 @@
 ---
-title:Send Email
+title:Send Email in Gokarma
 category: Others
 order: 2
 ---
 
-#Send Email:
+# Send Email:
 * You can send an email to a single record or to multiple records. When records are selected, a button ‘Send Direct Email’ is enabled.
  Refer the image below.
  ![Image1](..\..\images\send_email1.png)
