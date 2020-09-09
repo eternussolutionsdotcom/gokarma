@@ -1,7 +1,7 @@
 ---
- title: Pledges
- category:Donation Transactions
- order: 2
+title: Pledges
+category:Donation Transactions
+order: 2
 ---
  ## Accept and track all pledges of donors.
  
