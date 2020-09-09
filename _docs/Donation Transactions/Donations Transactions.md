@@ -1,40 +1,40 @@
 ---
 title: Donation Transactions
-category:Donation Transactions
+category: Donation Transactions
 order: 2
 ---
- ## A list of all donations along with the details.
+## A list of all donations along with the details.
 
- **Features**: 
- * See the list of all transactions.
- * Filter the transaction records by donation type, donation status and anonymous donations. 
- * View and download 80G receipt of donor. 
+**Features**: 
+* See the list of all transactions.
+* Filter the transaction records by donation type, donation status and anonymous donations. 
+* View and download 80G receipt of donor. 
 
- 
- **To view the record**: 
 
- 1. Double click on record or select edit button. 
+**To view the record**: 
 
- **Update the donations**: 
+1. Double click on record or select edit button. 
 
- 1. Open any record 
+**Update the donations**: 
 
- 2. Make required changes. 
+1. Open any record 
 
- 3. Select Update button  
+2. Make required changes. 
 
- >To update the donation transaction, donation status should be “Not Received”. 
+3. Select Update button  
 
- **View and download 80 G receipt**: 
+>To update the donation transaction, donation status should be “Not Received”. 
 
-   Provides you a certificate that exempts you part or fully from paying taxes, if you have made donations. 
+**View and download 80 G receipt**: 
 
- **To view or download the 80G receipt**: 
+Provides you a certificate that exempts you part or fully from paying taxes, if you have made donations. 
 
- 1. After receiving donation, a record has been created in donation transaction. 
+**To view or download the 80G receipt**: 
 
- 2. Select view icon of desired record. 
+1. After receiving donation, a record has been created in donation transaction. 
 
- 3. Select **Download** button. 
+2. Select view icon of desired record. 
 
- 4. Receipt will be downloaded in pdf format. 
+3. Select **Download** button. 
+
+4. Receipt will be downloaded in pdf format. 

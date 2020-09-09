@@ -1,40 +1,39 @@
 ---
 title: Pledges
-category:Donation Transactions
+category: Donation Transactions
 order: 2
 ---
- ## Accept and track all pledges of donors.
- 
- **Features**: 
+## Accept and track all pledges of donors.
 
- * Add pledges 
- * View all pledges with detailed data. 
- * Filter the pledges by donation frequency and donation type 
+**Features**: 
 
- **Terms in pledges**: 
+* Add pledges 
+* View all pledges with detailed data. 
+* Filter the pledges by donation frequency and donation type 
 
- **Amount Distribution**: Multiply and Divide 
+**Terms in pledges**: 
 
- **Multiply**: The entered amount will be considered for all sub pledges every time. 
+**Amount Distribution**: Multiply and Divide 
 
- **Divide**: The entered amount will be divided into number of sub pledges. 
+**Multiply**: The entered amount will be considered for all sub pledges every time. 
+
+**Divide**: The entered amount will be divided into number of sub pledges. 
 
 
- **To add new pledge**: 
+**To add new pledge**: 
 
- 1. Select **Add Pledge** button. 
+1. Select **Add Pledge** button. 
 
- 2. Select required details. 
+2. Select required details. 
 
- 3. Select **Add** button. 
+3. Select **Add** button. 
 
- **To view pledges**: 
+**To view pledges**: 
 
- 1. Double click on record or simply click on view icon. 
+1. Double click on record or simply click on view icon. 
 
- 2. All information regarding pledges like paid, planned, deferred and cancelled sub pledges will be listed. 
+2. All information regarding pledges like paid, planned, deferred and cancelled sub pledges will be listed. 
 
- [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=Xt6mEySotvY)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_SOVbq6FUoU/0.jpg)](https://www.youtube.com/watch?v=Xt6mEySotvY)
 
- [Donation--Pledges video](https://www.youtube.com/watch?v=Xt6mEySotvY)
- 
+[Donation--Pledges video](https://www.youtube.com/watch?v=Xt6mEySotvY)
